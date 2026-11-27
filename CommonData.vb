@@ -1,3 +1,0 @@
-﻿Module CommonData
-
-End Module
